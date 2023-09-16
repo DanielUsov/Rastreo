@@ -1,0 +1,6 @@
+[submodule "rastreo-back"]
+	path = rastreo-back
+	url = git@github.com:DanielUsov/rastreo-back.git
+[submodule "rastreo-front"]
+	path = rastreo-front
+	url = git@github.com:DanielUsov/rastreo-front.git
